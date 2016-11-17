@@ -14,3 +14,8 @@ img {
 #first-ingredient {
  color: blue; 
 }
+
+.section-heading {
+  background-color: #330033; 
+  font-style: italic;
+}
